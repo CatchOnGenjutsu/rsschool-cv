@@ -137,4 +137,4 @@ h1{
 ----
 
 ### **My english level:**
-B1 (*trying to improve on B2*).
+B1 (*trying to improve on B2*)
