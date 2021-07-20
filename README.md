@@ -1,1 +1,1 @@
-https://github.com/CatchOnGenjutsu/rsschool-cv/cv
+https://catchongenjutsu.github.io/rsschool-cv/cv
