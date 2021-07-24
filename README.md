@@ -1,1 +1,1 @@
-https://catchongenjutsu.github.io/rsschool-cv/cv
+https://catchongenjutsu.github.io/rsschool-cv/
